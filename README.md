@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muhammed! 👋 <br/><a href="https://github.com/muhammedzatar">Software Developer</a>, <a href="https://www.linkedin.com/in/muhammedzatar/">Ruby on Rails & Python Expert</a></h1>
+<h1>Hi, I'm Muhammed! 👋 <br/><a href="https://github.com/muhammedzatar">Ruby on Rails & Python</a>, <a href="https://www.linkedin.com/in/muhammedzatar/">Software developer</a></h1>
 
 ## 🛠️ Skills
 - Ruby on Rails 🚀
