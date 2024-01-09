@@ -1,4 +1,3 @@
-# moeshu.github.io
 <h1>Hi, I'm Muhammed! 👋 <br/><a href="https://github.com/muhammedzatar">Software Developer</a>, <a href="https://www.linkedin.com/in/muhammedzatar/">Ruby on Rails & Python Expert</a></h1>
 
 ## 🛠️ Skills
