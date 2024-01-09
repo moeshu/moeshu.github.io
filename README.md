@@ -30,7 +30,7 @@ _Scientist.com, 2019 - 2023_
 
 **Full-Stack Developer**  
 _Match A Resident, 2015 - 2018_  
-- Enhanced the company's matching system leveraging Ruby on Rails, Postgres, JavaScript, and Bootstrap, streamlining the matching process for residents and healthcare facilities.
+- Optimized the company's matching system by utilizing Ruby on Rails, PostgreSQL, JavaScript, and Bootstrap, which significantly improved the efficiency of the matching process for residents and healthcare facilities.
 - Championed redesigning and coordinating websites for Electronic Residency, Match A Resident, and Residency Statement, implementing modern design principles and user-centered approaches to optimize the user journey.
 - Implemented comprehensive SEO strategies, doubling the optimization score of these sites to a perfect 100%, resulting in improved Google search ranking and a substantial increase in site traffic.
 
