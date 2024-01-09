@@ -1,9 +1,9 @@
-<h1>Hi, I'm Muhammed! 👋 <br/><a href="https://github.com/muhammedzatar">Ruby on Rails</a>, <a href="https://www.linkedin.com/in/muhammedzatar/">Software developer</a></h1>
+<h1>Hi there 👋, I'm Muhammed Zatar! <br/> <a href="https://www.linkedin.com/in/muhammadzatar/">Software Engineer</a></h1>
 
-## 🛠️ Skills
+## 🧰 Toolbox
 - Ruby on Rails 🚀
-- Python & Flask 🐍
 - PostgreSQL 🗄️
+- Python & Flask 🐍
 - RESTful API Design 🔗
 - Database Architecture and Design 🏛️
 - Test-Driven Development (TDD) 🧪
@@ -47,4 +47,4 @@ _San Francisco State University, San Francisco, CA, Dec 2019_
 ## 🤝 Let's Connect
 [<img align="left" alt="MuhammedZatar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/muhammedzatar
+[linkedin]:https://www.linkedin.com/in/muhammadzatar/
