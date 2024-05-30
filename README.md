@@ -44,7 +44,14 @@ _Pet Box, 2014 - 2015_
 **Bachelor of Science: Management Information Systems**  
 _San Francisco State University, San Francisco, CA, Dec 2019_
 
-## 🤝 Let's Connect
-[<img align="left" alt="MuhammedZatar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📜 Certifications
+- **Introduction to Generative AI** - Google Cloud
+- **Introduction to Python for Cybersecurity** - Infosec
+- **Create Your First Web App with Python and Flask** - Coursera Project Network
+- **Python for Data Science, AI & Development** - IBM
+- **Introduction to Information Technology and AWS Cloud** - Amazon Web Services
+- **C# for .NET Developers** - Board Infinity
+- **ChatGPT Prompt Engineering for Developers** - DeepLearning.AI
 
-[linkedin]:https://www.linkedin.com/in/muhammadzatar/
+## 🤝 Let's Connect
+- **LinkedIn:** [linkedin.com/in/muhammadzatar](http://linkedin.com/in/muhammadzatar)
